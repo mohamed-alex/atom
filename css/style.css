@@ -135,6 +135,9 @@ body{
 .our-works{
     background-color: var(--section-color);
 }
+.our-works ul{
+    flex-wrap: wrap;
+}
 .our-works ul .active{
     color:var(--yellow);
     background-color: var(--red);
